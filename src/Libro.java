@@ -3,7 +3,7 @@ public class Libro {
     // Atributos
     private String titulo;
     private String autor;
-    private int numeroPaginas;
+    private int numeroPaginas; // cambio //
     private final String isbn;
     private static int contadorLibros = 0;//mantiene un valor constante//
 
