@@ -10,6 +10,7 @@ public class Principal {
         System.out.println("Total de libros creados: " + Libro.getTotalLibros()); //
         
         System.out.println(libro2.getNumeroPaginas());
+        libro2.mostrarInfo();
 
     }
 }
