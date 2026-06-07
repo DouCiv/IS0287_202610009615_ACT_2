@@ -39,7 +39,7 @@ public class Libro {
     }
 
     public void mostrarInfo() {
-        System.out.println("'" + titulo + "' por " + autor + " ( " + numeroPaginas + " páginas). ISBN: " + isbn);
+        System.out.println(titulo + " por " + autor + " ( " + numeroPaginas + " páginas). ISBN: " + isbn);
     }
 
     public static int getTotalLibros() {
