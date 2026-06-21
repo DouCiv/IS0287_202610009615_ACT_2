@@ -12,12 +12,7 @@ public class Principal {
         
         System.out.println("Libros creados: " + Libro.getTotalLibros()); //
         
-        
-        //Codigo a borrar
-        //libro2.mostrarInfo(); //Aca imprime la informacion antes de la modificacion
-        //System.out.println("\nEl título del libro2 es: " + libro2.getTitulo());
-        // System.out.println(libro2.getNumeroPaginas());
-        
+
 
     }
 }
