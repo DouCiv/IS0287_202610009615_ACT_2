@@ -45,4 +45,5 @@ public class Libro {
     public static int getTotalLibros() {
         return contadorLibros;
     }
+    
 }
